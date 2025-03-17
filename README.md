@@ -1,3 +1,15 @@
+This project have following Properties:-
+ Pagination: Loads users in chunks of 5
+ Search Functionality: Filters users dynamically
+ Navigation: Moves to a detail screen when selecting a user
+ Error Handling: Displays error messages
+ Loading Indicators: Shows a spinner while loading
+ Pull-to-Refresh: Refreshes user list
+ User Address Display: Shows address on detail screen
+
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
